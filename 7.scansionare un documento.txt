@@ -1,0 +1,22 @@
+SCANSIONARE UN DOCUMENTO SU più FOGLI FRONTE-RETRO
+
+ASSUNZIONE:
+Si assume che la stampante sia già collegata al PC
+
+INIZIO
+
+1.Cerco la pratica che mi serve in mezzo a tutti i fogli dell'ufficio
+    1.1 Prendo un foglio di carta a caso
+        1.1.1 SE fa parte della pratica che mi serve allora lo metto da parte e torno al punto 1.1 finchè non li trovo tutti
+        1.1.2 SE non fa parte della pratica che mi serve allora torno al pun 1.1
+    1.2 Una volta raccolti tutti i fogli della pratica che mi serve passo alla FASE 1
+
+FASE 1
+
+1.Apro la parte dove scansionare i documenti della stampante
+2.Metto all'interno il foglio della pratica
+    2.1 PER OGNI foglio della pratica devo scansionare il fronte e il retro
+    2.2 Riparto dal punto 2 FINCHÈ non ho finito tutti i fogli
+3.Una volta finiti i fogli chiudo la stampante
+
+FINE
