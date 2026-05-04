@@ -1,8 +1,12 @@
 SCEGLIERE COSA GUARDARE SU NETFLIX
 
-1.Accendere la TV
-2.Aprire Netflix
-3.Trovare qualcosa che metta d'accordo tutti
+INIZIO
+1.Accendo la TV
+2.Apro Netflix
+
+FASE 1
+3.Trovo qualcosa che metta d'accordo tutti
     3.1 SE c'è tempo o non c'è sonno ALLORA un film che ci hanno consigliato
     ALTRIMENTI
     3.2 SE c'è poco tempo o c'è sonno ALLORA una serie tv
+4.Valuto se possa piacere a tutti ALTRIMENTI torno al punto 3
