@@ -1,0 +1,19 @@
+ORDINARE UNA PIZZA
+
+INIZIO
+
+1.Mi alzo dalla scrivania
+2.Chiamo la pizzeria e ordino la solita pizza con prosciutto e funghi
+    2.1 SE hanno tutti gli ingredienti ALLORA la ordino
+    ALTRIMENTI
+    2.2 SE non hanno la pizza prosciutto e funghi ALLORA mi faccio dire il listino delle pizze e ne scelgo una che mi piace da lì
+
+FASE 1
+
+1.Arriva la pizza fumante
+    1.1 Aspetto che si raffredda un poco
+2.Mi mangio la pizza
+    2.1 SE mangio tutta la pizza ALLORA butto il cartone
+    ALTRIMENTI
+    2.2 SE lascio una o più fette allora la mette in frigo
+FINE
