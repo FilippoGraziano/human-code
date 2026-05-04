@@ -14,3 +14,4 @@ FASE 1
 2.Scambio con i miei amici i doppioni
     2.1 SE scambio i doppioni con figurine nuove ALLORA le metto nell'album
     2.2 SE non scambio ALLORA torno a casa
+FINE

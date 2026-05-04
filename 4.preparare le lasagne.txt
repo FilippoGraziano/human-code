@@ -1,0 +1,29 @@
+PREPARARE LE LASAGNE ALLA BOLOGNESE
+
+
+ASSUNZIONE:
+Si assume che il ragù e la besciamella siano già pronti essendo ingredienti della ricetta e che tutti gli ingredienti siano presenti a casa
+
+INIZIO
+
+1.Prendo la ricetta della nonna
+2.Preparo tutti gli ingredienti della lista sul tavolo
+    2.1 Controllo dalla lista che gli ingredienti siano tutti e che le quantità siano giuste
+3.Preparo la teglia su cui mettere gli ingredienti
+
+FASE 1
+
+1.Metto gli ingredienti della ricetta nella teglia a strati seguendo quello che dice la ricetta
+2.Una volta che la teglia è pronta la metto in forno
+
+Fase 2
+
+1.Per la cottura delle lasagne seguo sempre la ricetta controllandole ogni 10 minuti
+    1.1 SE sono crude continuo a farle cuocere
+    ALTRIMENTI
+    1.2 SE sono pronte le esco dal forno per evitare che si brucino
+2.Servo le lasagne a tavola
+    1.1 SE sono buone come quelle della nonna alla c'è l'ho fatta
+    ALTRIMENTI
+    1.2 SE non sono come quelle della nonna la prossima settimana ripartirò dal punto uno dell'inizio
+FINE
