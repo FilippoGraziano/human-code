@@ -1,0 +1,15 @@
+CONTARE I POSTI A TAVOLA DI 2 IN 2
+
+INIZIO
+
+1.Ho preparato il tavolo del pranzo di Natale
+2.Devo controllare che ci siano tutti i posti
+
+FASE 1
+
+1.Conto quanti siamo:
+    1(io)+1(la nonna)+1(zio Rino)+1(Emy)+1(zia Lucia)+1(nonno Carlo)=6
+2.Conto qunati sono i posti a tavola (per fare più velocemente conterò di 2 in 2 FINCHÈ arriverò a 6):
+    2.1 SE i posti sono 6 ALLORA non devo fare niente
+    2.2 SE sono meno di sei ALLORA aggiungierò i posti a tsavola fino ad arrivare a 6
+FINE
