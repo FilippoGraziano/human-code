@@ -1,0 +1,14 @@
+FARE LA SPESA SEGUENDO UNA LISTA
+
+1.Prendo la lista della spesa
+2.Esco di casa
+3.Vado al supermecato
+4.Prendo un carrello
+5.Giro per gli scaffali guardando gli oggetti
+    Continuo FINCHÈ non completo la lista:
+    5.1 SE è presente nella lista ALLORA metto nel carrello
+    5.2 SE non è presente nella lista ALLORA continuo a cercare
+6.Vado alla cassa
+    6.1 Prendo il coupon
+    6.2 SE non ho preso snack extra pago in contanti
+    6.3 ALTRIMENTI SE ho preso snack extra pago con la carta
