@@ -1,5 +1,14 @@
 FARE LA SPESA SEGUENDO UNA LISTA
 
+INIZIO
+
+1.Apro il frigo
+2.Controllo cosa manca O cosa sta per scadere
+    2.1 PER OGNI cosa che manca O che sta per scadere l'aggiungo nella lista
+3.Aggiungo alla lista le crocchette di Ricky
+
+FASE 1
+
 1.Prendo la lista della spesa
 2.Esco di casa
 3.Vado al supermecato
@@ -8,8 +17,11 @@ FARE LA SPESA SEGUENDO UNA LISTA
     Continuo FINCHÈ non completo la lista:
     5.1 SE è presente nella lista ALLORA metto nel carrello
     5.2 SE non è presente nella lista ALLORA continuo a cercare
-6.Vado alla cassa
-    6.1 Prendo il coupon
-    6.2 SE non ho preso snack extra pago in contanti
+
+FASE 2
+
+1.Vado alla cassa
+    1.1 Prendo il coupon
+    1.2 SE non ho preso snack extra pago in contanti
     ALTRIMENTI
-    6.3 SE ho preso snack extra pago con la carta
+    1.3 SE ho preso snack extra pago con la carta
