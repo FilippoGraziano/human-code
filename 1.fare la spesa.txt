@@ -11,4 +11,5 @@ FARE LA SPESA SEGUENDO UNA LISTA
 6.Vado alla cassa
     6.1 Prendo il coupon
     6.2 SE non ho preso snack extra pago in contanti
-    6.3 ALTRIMENTI SE ho preso snack extra pago con la carta
+    ALTRIMENTI
+    6.3 SE ho preso snack extra pago con la carta
