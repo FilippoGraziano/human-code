@@ -8,5 +8,9 @@ FASE 1
 3.Trovo qualcosa che metta d'accordo tutti
     3.1 SE c'è tempo o non c'è sonno ALLORA un film che ci hanno consigliato
     ALTRIMENTI
-    3.2 SE c'è poco tempo o c'è sonno ALLORA una serie tv
+    3.2 SE c'è poco tempo O c'è sonno ALLORA una serie tv
 4.Valuto se possa piacere a tutti ALTRIMENTI torno al punto 3
+
+FASE 2
+
+1.SE non ho trovato un film O una serie tv che non piace a nessuno ALLORA andiamo a dormire
