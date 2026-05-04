@@ -1,0 +1,18 @@
+COMPRARE QUALCOSA SU AMAZON
+
+INIZIO
+
+1.Apro amazon
+2.Vado sul catalogo dei libri
+
+Fase 1
+
+1.Cerco un libro che potrebbe piacere a Silvia
+    1.1 SE è quello giusto ALLORA controllo la spedizione
+        1.1.1 SE arriva in tempo lo compro
+        ALTRIMENTI
+        1.1.2 SE non arriva in tempo esco di casa e lo vado a comprare in una libreria
+    1.2 SE non è quello giusto riparto dal punto 1 
+2.SE non trovo un libro che gli piace ALLORA cambio regalo FINCHÈ non trovo quello giusto
+
+FINE
