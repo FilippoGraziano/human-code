@@ -1,0 +1,12 @@
+APRIRE UN PACCHETTO DI FIGURINE
+
+1.Predo un pacchetto di figurine
+2.Apro il pacchetto
+3.Apro l'album
+    Continuo FINCHÈ non finisco le figurine
+    3.1 SE la figurina mi manca la metto nell'album
+    3.2 SE la figurina c'è l'ho la metto nel mazzetto dei doppioni
+4.Aspetto sabato
+5.Scambio con i miei amici i doppioni
+    5.1 SE scambio i doppioni con figurine nuove ALLORA le metto nell'album
+    5.2 SE non scambio ALLORA torno a casa
