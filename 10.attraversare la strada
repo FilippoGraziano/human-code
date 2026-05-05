@@ -1,0 +1,15 @@
+ATTRAVERSARE LA STRADA
+
+ASSUNZIONE:
+Si assume che mi trovo già fuori casa e davanti a delle striscie pedonali
+
+INIZIO
+
+1.Prima di attraversare la strada guardo a sinistra
+    1.1 SE non ci sono veicoli passo allo step successivo
+    1.2 SE vedo che arrivano una o più veicoli allora aspetto che non ci sia più nessuno e POI vado allo step successivo
+2.Incomincio ad attraversare la strada fino ad arrivare quasi alla fine della prima corsia
+3.Prima di attraversare la seconda corsia guardo a destra
+    3.1 SE non ci sono veicoli continuo ad attraversare la strada fino ad arrivaresul marciapiede
+    3.2 SE vedo che arrivano uno o più veicoli allora aspetto che passino tutti e POI finisco di attraversare la strada fino ad arrivare al marciapiede
+FINE
